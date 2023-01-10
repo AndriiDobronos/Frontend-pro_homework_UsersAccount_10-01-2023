@@ -77,16 +77,3 @@ alert(`Phone numbers of users which high balance :
 ${arrHighBalances} 
  Sum of the entire users balance :
   ${sumAllBalance}`)
-
-
-
-
-
-
-
-//let el = Object()
-//const filterArr = users.filter(function(el,index,users) {
-//    return index === 1
-//    return el
-//})
-//alert(filterArr )
